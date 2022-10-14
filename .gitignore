@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.parcel-cache/*
+.vscode/*
+dist/*
+node_modules/*
+tmp/*
+!/tmp/.gitkeep
