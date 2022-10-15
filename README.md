@@ -1,4 +1,8 @@
-#AK's front end boiler
+# AK's front end boiler
+
+```bash
+proj=MYAPP && gh repo create ${proj} --confirm --private --template ak--47/ak-boilerplate && cd ${proj} && git pull origin main && npm install && code .
+```
 
 spend less time on setup
 
